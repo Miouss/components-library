@@ -3,6 +3,7 @@ export default async function Home() {
     <main className="flex gap-4">
       <Button route="google-map">Google Map</Button>
       <Button route="burger-menu">Burger Menu</Button>
+      <Button route="carrousel">Carrousel</Button>
     </main>
   );
 }
